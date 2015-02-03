@@ -1,7 +1,24 @@
-# Telegram
-The Telegram project where in we did few modifications
+<h1>BCD Social messenger – Telegram client for Android</h1>
 
-BCD Social Messenger is a Telegram client that makes instant messaging with friends fun, simple, and secur.
-It is Very practical to improve your language skills by chatting;It has all the awesome features of the official Telegram. 
-You can use Telegram and BCD Social at the same time, with the same number or different numbers.
-Our fork is here: https://github.com/BCDS/Telegram
+<a href="http://bcdsocial.com/"> BCD Social Messaging app</a> is a Telegram client with a focus on speed and security. It’s superfast, simple and free. You can use Telegram and BCD Social app at the same time, with the same number or different numbers.
+
+
+This repo contains the official source code for <a href="https://play.google.com/store/apps/details?id=org.telegram.messenger">Telegram App for Android.</a>
+
+
+<h3>API, Protocol documentation</h3>
+
+Documentation for Telegram API is available here: http://core.telegram.org/api
+
+
+Documentation for MTproto protocol is available here: http://core.telegram.org/mtproto
+
+
+<h3>Usage</h3>
+
+Import the root folder into your IDE (tested on Android Studio), then run project.
+
+
+<h3>Localization</h3>
+
+We moved all translations to https://www.transifex.com/projects/p/telegram/. Please use it.
